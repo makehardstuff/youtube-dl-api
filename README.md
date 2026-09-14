@@ -85,3 +85,8 @@ Now drage the `Watch Later` link into your bookmarks.
 
 ## Step 4: Use it
 When on a page with a video, simply click the bookmarklet.
+
+
+## Hosted option
+
+If you don’t want to self-host with Docker, [Vid Kraken](https://vidkraken.com) is a managed YouTube download API (info / mp3 / mp4 endpoints).
